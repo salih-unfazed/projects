@@ -20,6 +20,8 @@ struct operator
     struct point *points;
 };
 
+// merkezi referans alarak diğer noktaları bulmak
+
 void findpoint(struct operator yeni)
 {
 
